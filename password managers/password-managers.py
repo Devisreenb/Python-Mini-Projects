@@ -7,6 +7,7 @@ def write_key():
         key_file.write(key)
 
 write_key()
+# run write_key() function only once 
 '''
 
 def load_key():
